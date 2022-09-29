@@ -1,8 +1,7 @@
 ### Olá!! Sou a Di-neck 👋
 
 - 🔭 Atualmente estou cursando Informática para a internet.
-- 🌱 Estou estudando Java Scrprit, HTML, CSS.
-- 😄 Pronome: Ela/Dela
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Di-neck&show_icons=true&theme=minimal&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di-neck&layout=compact&langs_count=7&theme=minimal"/>
